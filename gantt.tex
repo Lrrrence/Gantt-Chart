@@ -1,8 +1,8 @@
-\documentclass[6pt]{article}
+\documentclass{article}
 %
 % This is a direct copy of the codes in section 2.9 of the package
 % documentation (See page 45) https://mirrors.tuna.tsinghua.edu.cn/CTAN/graphics/pgf/contrib/pgfgantt/pgfgantt.pdf 
-% except the color setting
+% except the colour setting
 
 \usepackage{ragged2e} % provides \RaggedLeft
 \usepackage{geometry}
@@ -42,21 +42,21 @@ bar incomplete/.append style={fill=green}
 \ganttmilestone{9 Month Viva Voce}{2020-09} \\
 \ganttset{progress label text={}, link/.style={black, -to}}
 \ganttgroup{18 Month Review}{2020-10}{2021-05} \\
-    \ganttbar[progress=0]{Refining the measurement system to accurately measure wave velocity of the $S_0$ mode}{2020-10}{2020-11} \\
-    \ganttlinkedbar[progress=0]{Measurements up to 160\si{\degreeCelsius} to validate the system against theoretical calculations of wave velocity change}{2020-12}{2021-02} \\
-    \ganttlinkedbar[progress=0]{Excite higher order modes to validate their temperature sensitivities}{2021-03}{2021-05} \\
-    \ganttbar[progress=0]{COMSOL modelling of measurement system (wedge transducer system, plate holes, and new transducer system)}{2021-3}{2022-2} \\
+    \ganttbar[progress=100]{Refining the measurement system to accurately measure wave velocity of the $S_0$ mode}{2020-10}{2020-11} \\
+    \ganttlinkedbar[progress=100]{Measurements up to 160\si{\degreeCelsius} to validate the system against theoretical calculations of wave velocity change}{2020-12}{2021-02} \\
+    \ganttlinkedbar[progress=75]{Excite higher order modes to validate their temperature sensitivities}{2021-03}{2021-06} \\
+    \ganttbar[progress=20]{COMSOL modelling of measurement system (wedge transducer system, plate holes, and new transducer system)}{2021-3}{2022-5} \\
     \ganttbar[bar/.append style={fill=orange}]{Conference paper write-up}{2021-1}{2021-2} \\
-    \ganttmilestone{ISABE2021 Conference Submission}{2021-02} \\
+    \ganttmilestone{AIAA Propulsion \& Energy Conference Submission}{2021-02} \\
     \ganttbar[bar/.append style={fill=orange}]{18 Month review write-up}{2021-4}{2021-5} \\
     \ganttmilestone{18 Month Review Submission}{2021-05} \\
 \ganttgroup{Final Thesis}{2021-06}{2022-10} \\
-    \ganttbar[progress=0]{Introduction of holes to the plate to investigate temperature mapping}{2021-6}{2021-9} \\
-    \ganttlinkedbar[progress=0]{Investigate the use of other transducers}{2021-10}{2022-02} \\
-    \ganttlinkedbar[progress=0]{Test system at high temperatures}{2022-3}{2022-5} \\
+    \ganttbar[progress=0]{COMSOL modelling of plate holes (single and multiple holes)}{2021-6}{2021-9} \\
+    \ganttlinkedbar[progress=0]{Experimental testing of plate holes (single and multiple holes)}{2021-10}{2022-1} \\
+    \ganttlinkedbar[progress=0]{COMSOL modelling of waveguide system}{2022-2}{2022-5} \\
     \ganttlinkedbar[bar/.append style={fill=orange}]{Write up}{2022-06}{2022-10} \\
-    \ganttbar[bar/.append style={fill=red}]{ISABE2021 Conference}{2021-9}{2021-10} \\
-    \ganttmilestone{Potential journal submission}{2021-8} \\
+    \ganttbar[bar/.append style={fill=red}]{AIAA Propulsion \& Energy Conference}{2021-8}{2021-8} \\
+    \ganttmilestone{Potential journal submission}{2021-9} \\
     \ganttmilestone{Potential conference paper submission}{2022-3} \\
     \ganttmilestone{Final submission}{2022-10} \\
 \end{ganttchart}
