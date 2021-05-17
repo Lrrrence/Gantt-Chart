@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.23)  23 APR 2021 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.23)  17 MAY 2021 09:19
 entering extended mode
-**"c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Gantt-Chart/gantt.tex"
-(c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Gantt-Chart/gantt.tex
+**c:/Users/yulel/Documents/LaTeX/Gantt-Chart/gantt.tex
+(c:/Users/yulel/Documents/LaTeX/Gantt-Chart/gantt.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -397,7 +397,7 @@ Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
 LaTeX Info: Redefining \translate on input line 184.
 ))
-(c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Gantt-Chart\gantt.aux)
+(c:/Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux)
 \openout1 = `gantt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -481,17 +481,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{C:/Users/yulel/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Gantt-Chart\gantt.aux) ) 
+{C:/Users/yulel/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (c:/Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux) ) 
 Here is how much of TeX's memory you used:
  17243 strings out of 479324
- 390247 string characters out of 2856815
- 678001 words of memory out of 3000000
+ 389967 string characters out of 2856815
+ 678007 words of memory out of 3000000
  34420 multiletter control sequences out of 15000+600000
  406805 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,8n,103p,496b,1515s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,8n,103p,467b,1515s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\yulel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Gantt-Chart\gantt.pdf" (1 page, 82035 bytes).
+Output written on c:/Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.pdf (1 page, 82199 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
