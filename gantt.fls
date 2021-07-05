@@ -1,7 +1,7 @@
 PWD c:\Users\yulel\Documents\LaTeX\Gantt-Chart
 INPUT C:\Users\yulel\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.tex
-OUTPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.log
+OUTPUT gantt.log
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -540,10 +540,10 @@ INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\translator\translat
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux
-INPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux
-INPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux
-OUTPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux
+INPUT .\gantt.aux
+INPUT gantt.aux
+INPUT gantt.aux
+OUTPUT gantt.aux
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -590,9 +590,9 @@ INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tf
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0700.tfm
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0500.tfm
-OUTPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.pdf
+OUTPUT gantt.pdf
 INPUT C:\Users\yulel\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT c:\Users\yulel\Documents\LaTeX\Gantt-Chart\gantt.aux
+INPUT gantt.aux
 INPUT C:\Users\yulel\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\yulel\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
